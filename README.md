@@ -1,4 +1,4 @@
-# DISCOGENRES
+# discogenres
 A small scraper to pull all genres including number of releases from Discogs
 
 You need to install BeatifulSoup from https://pypi.org/project/beautifulsoup4/ and Pandas from https://pypi.org/project/pandas/.
