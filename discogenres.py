@@ -1,3 +1,5 @@
+#### discogenres by ILLVAN ####
+
 # To run this, install BeautifulSoup 
 
 import urllib.request
