@@ -3,8 +3,8 @@ Script for extracting all genres and styles from discogs, to run this install Be
 """
 
 import urllib.request
-import pandas as pd
 import os
+import pandas as pd
 from bs4 import BeautifulSoup
 
 
