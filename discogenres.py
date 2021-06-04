@@ -1,5 +1,7 @@
 """
-Script for extracting all genres and styles from discogs, to run this install BeautifulSoup
+discogenres by ILLVAN
+Script for extracting all genres and styles from discogs, including number of releases.
+To run this install BeautifulSoup
 """
 
 import urllib.request
